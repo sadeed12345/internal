@@ -1,0 +1,256 @@
+2023-01-19 15:40:25:4025 +05:00 - info - server started on port :6093
+2023-01-19 15:45:01:451 +05:00 - info - server started on port :6093
+2023-01-19 15:45:24:4524 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 15:45:24:4524 +05:00 - http - GET /user/activeUsers 500 35 - 9.473 ms
+
+2023-01-19 15:48:11:4811 +05:00 - info - server started on port :6093
+2023-01-19 15:48:14:4814 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 15:48:14:4814 +05:00 - http - GET /user/activeUsers 500 35 - 9.970 ms
+
+2023-01-19 15:49:25:4925 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 15:49:25:4925 +05:00 - http - GET /user/activeUsers 500 35 - 3.439 ms
+
+2023-01-19 16:00:30:030 +05:00 - info - server started on port :6093
+2023-01-19 16:00:34:034 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 16:00:34:034 +05:00 - http - GET /user/activeUsers 500 35 - 7.953 ms
+
+2023-01-19 16:01:31:131 +05:00 - info - N running at http://localhost:6093
+2023-01-19 16:01:34:134 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 16:01:34:134 +05:00 - http - GET /user/activeUsers 500 35 - 857.267 ms
+
+2023-01-19 16:02:15:215 +05:00 - info - N running at http://localhost:6093
+2023-01-19 16:02:19:219 +05:00 - error - activeUsers: Failed to connect to localhost:1433 - Could not connect (sequence)
+2023-01-19 16:02:19:219 +05:00 - http - GET /user/activeUsers 500 35 - 19.677 ms
+
+2023-01-19 16:02:30:230 +05:00 - info - N running at http://localhost:6093
+2023-01-19 16:48:44:4844 +05:00 - info - N running at http://localhost:6093
+2023-01-19 16:48:54:4854 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 16:48:54:4854 +05:00 - http - GET /user/activeUsers 500 35 - 845.788 ms
+
+2023-01-19 16:50:10:5010 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 16:50:10:5010 +05:00 - http - GET /user/activeUsers 500 35 - 848.841 ms
+
+2023-01-19 17:05:59:559 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:06:02:62 +05:00 - error - activeUsers: Failed to connect to localhost:1433 - Could not connect (sequence)
+2023-01-19 17:06:02:62 +05:00 - http - GET /user/activeUsers 500 35 - 17.524 ms
+
+2023-01-19 17:07:39:739 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:07:48:748 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:09:12:912 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:09:17:917 +05:00 - error - activeUsers: Failed to connect to localhost:1433 - Could not connect (sequence)
+2023-01-19 17:09:17:917 +05:00 - http - GET /user/activeUsers 500 35 - 18.815 ms
+
+2023-01-19 17:29:34:2934 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:29:39:2939 +05:00 - error - activeUsers: config is not defined
+2023-01-19 17:29:39:2939 +05:00 - http - GET /user/activeUsers 500 35 - 6.504 ms
+
+2023-01-19 17:29:53:2953 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:29:57:2957 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 17:29:57:2957 +05:00 - http - GET /user/activeUsers 500 35 - 848.410 ms
+
+2023-01-19 17:32:47:3247 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:33:30:3330 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:33:52:3352 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:34:43:3443 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:35:38:3538 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:35:55:3555 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:35:59:3559 +05:00 - http - GET /user/activeUsers 200 - - 1164.655 ms
+
+2023-01-19 17:36:25:3625 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:36:48:3648 +05:00 - http - GET /user/activeUsers 200 - - 1143.054 ms
+
+2023-01-19 17:37:58:3758 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:38:03:383 +05:00 - http - GET /user/activeUsers 200 - - 1261.538 ms
+
+2023-01-19 17:45:44:4544 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:46:06:466 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:46:10:4610 +05:00 - http - GET /user/activeUsers 200 - - 1148.565 ms
+
+2023-01-19 17:46:28:4628 +05:00 - http - GET /user/activeUsers 200 - - 818.666 ms
+
+2023-01-19 17:46:37:4637 +05:00 - info - N running at http://localhost:6093
+2023-01-19 17:49:50:4950 +05:00 - http - GET /user/activeUsers 200 - - 1179.117 ms
+
+2023-01-19 18:02:09:29 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:02:13:213 +05:00 - http - GET /user/activeUsers 200 - - 1271.750 ms
+
+2023-01-19 18:03:41:341 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:03:45:345 +05:00 - http - GET /user/activeUsers 200 - - 1140.119 ms
+
+2023-01-19 18:03:55:355 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:04:56:456 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:04:59:459 +05:00 - http - GET /user/activeUsers 200 - - 1139.117 ms
+
+2023-01-19 18:09:48:948 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:09:51:951 +05:00 - http - GET /user/activeUsers 200 - - 1228.592 ms
+
+2023-01-19 18:10:21:1021 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:10:29:1029 +05:00 - http - GET /user/activeUsers 200 - - 1211.602 ms
+
+2023-01-19 18:12:21:1221 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:12:24:1224 +05:00 - http - GET /user/activeUsers 200 - - 1126.828 ms
+
+2023-01-19 18:13:39:1339 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:13:43:1343 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:14:01:141 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:14:12:1412 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:14:44:1444 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:16:15:1615 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:16:19:1619 +05:00 - http - GET /user/activeUsers 200 40 - 855.207 ms
+
+2023-01-19 18:17:25:1725 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:17:29:1729 +05:00 - http - GET /user/activeUsers 200 40 - 11.013 ms
+
+2023-01-19 18:18:49:1849 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:18:53:1853 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:19:10:1910 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:19:17:1917 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:19:27:1927 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:19:48:1948 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 18:19:48:1948 +05:00 - http - GET /user/activeUsers 500 35 - 16.072 ms
+
+2023-01-19 18:20:02:202 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:20:05:205 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 18:20:05:205 +05:00 - http - GET /user/activeUsers 500 35 - 836.772 ms
+
+2023-01-19 18:21:24:2124 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:22:19:2219 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:22:49:2249 +05:00 - http - GET /user/activeUsers - - - - ms
+
+2023-01-19 18:23:36:2336 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:23:40:2340 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:24:19:2419 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:24:42:2442 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:25:18:2518 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:25:25:2525 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:28:29:2829 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:28:58:2858 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:29:32:2932 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:29:56:2956 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:30:03:303 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 18:30:03:303 +05:00 - http - GET /user/activeUsers 500 35 - 914.341 ms
+
+2023-01-19 18:32:08:328 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:36:04:364 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:36:09:369 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:36:22:3622 +05:00 - error - activeUsers: configuration is not defined
+2023-01-19 18:36:22:3622 +05:00 - http - GET /user/activeUsers 500 35 - 8.458 ms
+
+2023-01-19 18:36:34:3634 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:37:22:3722 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:37:26:3726 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:37:29:3729 +05:00 - http - GET /user/activeUsers 200 40 - 859.687 ms
+
+2023-01-19 18:38:53:3853 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:38:57:3857 +05:00 - http - GET /user/activeUsers 200 40 - 826.891 ms
+
+2023-01-19 18:41:52:4152 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:42:03:423 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:42:20:4220 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:42:43:4243 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:42:48:4248 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 18:42:48:4248 +05:00 - http - GET /user/activeUsers 500 35 - 853.051 ms
+
+2023-01-19 18:43:09:439 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:43:14:4314 +05:00 - http - GET /user/activeUsers 200 40 - 877.754 ms
+
+2023-01-19 18:47:28:4728 +05:00 - info - N running at http://localhost:6093
+2023-01-19 18:47:36:4736 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 18:47:36:4736 +05:00 - http - GET /user/activeUsers 500 35 - 14.470 ms
+
+2023-01-19 19:06:12:612 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:06:15:615 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:06:15:615 +05:00 - http - GET /user/activeUsers 500 35 - 12.876 ms
+
+2023-01-19 19:06:22:622 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:06:51:651 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:06:55:655 +05:00 - http - GET /user/activeUsers 200 40 - 1014.158 ms
+
+2023-01-19 19:09:02:92 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:09:18:918 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:09:28:928 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:09:32:932 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:09:36:936 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:09:41:941 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:09:44:944 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:10:16:1016 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:10:31:1031 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:11:16:1116 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:11:40:1140 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:11:43:1143 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:11:43:1143 +05:00 - http - GET /user/activeUsers 500 35 - 398.549 ms
+
+2023-01-19 19:12:38:1238 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:12:41:1241 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:12:55:1255 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:13:01:131 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:13:01:131 +05:00 - http - GET /user/activeUsers 500 35 - 327.525 ms
+
+2023-01-19 19:16:52:1652 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:16:56:1656 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:16:56:1656 +05:00 - http - GET /user/activeUsers 500 35 - 296.557 ms
+
+2023-01-19 19:17:39:1739 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:17:53:1753 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:18:02:182 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:18:24:1824 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:18:31:1831 +05:00 - http - GET /user/activeUsers 200 - - 1123.559 ms
+
+2023-01-19 19:19:40:1940 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:20:10:2010 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:20:15:2015 +05:00 - http - GET /user/activeUsers 200 - - 1253.846 ms
+
+2023-01-19 19:21:37:2137 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:22:18:2218 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:22:27:2227 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:22:34:2234 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:23:51:2351 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:13:2713 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:16:2716 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:30:2730 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:40:2740 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:43:2743 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:50:2750 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:52:2752 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:27:58:2758 +05:00 - http - GET /user/activeUsers 200 - - 915.929 ms
+
+2023-01-19 19:30:54:3054 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:31:11:3111 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:32:06:326 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:32:12:3212 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:32:44:3244 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:32:47:3247 +05:00 - http - GET /user/activeUsers 200 - - 59.849 ms
+
+2023-01-19 19:35:48:3548 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:35:55:3555 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:36:17:3617 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:36:58:3658 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:38:57:3857 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:39:02:392 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:39:18:3918 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:41:22:4122 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:41:28:4128 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:47:17:4717 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:47:29:4729 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:47:33:4733 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:47:37:4737 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:47:39:4739 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:48:03:483 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:48:15:4815 +05:00 - info - N running at http://localhost:6093
+2023-01-19 19:48:21:4821 +05:00 - http - GET /user/activeUsers 200 - - 1155.909 ms
+
+2023-01-19 20:10:42:1042 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:10:48:1048 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 20:10:48:1048 +05:00 - http - GET /user/activeUsers 500 35 - 850.758 ms
+
+2023-01-19 20:11:36:1136 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:12:03:123 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:16:20:1620 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:16:26:1626 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:16:31:1631 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:16:43:1643 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:16:55:1655 +05:00 - info - N running at http://localhost:6093
+2023-01-19 20:17:03:173 +05:00 - error - activeUsers: value is not defined
+2023-01-19 20:17:03:173 +05:00 - http - GET /user/activeUsers 500 35 - 1173.892 ms
+
+2023-01-19 20:17:29:1729 +05:00 - info - N running at http://localhost:6093

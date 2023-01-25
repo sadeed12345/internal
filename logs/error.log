@@ -1,0 +1,24 @@
+2023-01-19 15:45:24:4524 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 15:48:14:4814 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 15:49:25:4925 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 16:00:34:034 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 16:01:34:134 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 16:02:19:219 +05:00 - error - activeUsers: Failed to connect to localhost:1433 - Could not connect (sequence)
+2023-01-19 16:48:54:4854 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 16:50:10:5010 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 17:06:02:62 +05:00 - error - activeUsers: Failed to connect to localhost:1433 - Could not connect (sequence)
+2023-01-19 17:09:17:917 +05:00 - error - activeUsers: Failed to connect to localhost:1433 - Could not connect (sequence)
+2023-01-19 17:29:39:2939 +05:00 - error - activeUsers: config is not defined
+2023-01-19 17:29:57:2957 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 18:19:48:1948 +05:00 - error - activeUsers: The "config.server" property is required and must be of type string.
+2023-01-19 18:20:05:205 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 18:30:03:303 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 18:36:22:3622 +05:00 - error - activeUsers: configuration is not defined
+2023-01-19 18:42:48:4248 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 18:47:36:4736 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:06:15:615 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:11:43:1143 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:13:01:131 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 19:16:56:1656 +05:00 - error - activeUsers: Cannot close a pool while it is connecting
+2023-01-19 20:10:48:1048 +05:00 - error - activeUsers: Failed to connect to fenris.cwqjibs8an80.eu-central-1.rds.amazonaws.com:1433 - unable to get local issuer certificate
+2023-01-19 20:17:03:173 +05:00 - error - activeUsers: value is not defined
